@@ -1,0 +1,1 @@
+This repository contains the website content for the Department of Computer Science and Engineering.
